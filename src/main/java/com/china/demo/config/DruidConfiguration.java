@@ -18,7 +18,7 @@ import com.alibaba.druid.pool.DruidDataSource;
 /**
  * 数据库连接池druid的配置
  * 
- * @author liliang
+ * @author CatL
  * @date 2017年11月06日
  * @version 1.0
  */
